@@ -10,6 +10,8 @@ namespace ResourceToIcon
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет");
+            Console.ReadLine();
         }
     }
 }
